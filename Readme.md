@@ -16,7 +16,7 @@
  
 
 ### Time.
-#### 24 hours
+#### 8 hours
 
 ### Porject link
 [vercel link ](https://rode-clone-tailwind-project.vercel.app/)
