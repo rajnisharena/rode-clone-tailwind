@@ -22,3 +22,4 @@
 [vercel link ](https://rode-clone-tailwind-project.vercel.app/)
 
 ![badge](https://img.shields.io/badge/HTML-CSS-blue)
+<img src="https://i2.paste.pics/f0c22fc82acbf62c68a92746b0f1455a.png" width="1200" height="576" alt="Screenshot">
